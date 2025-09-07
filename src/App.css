@@ -1,9 +1,9 @@
 #root {
-  max-width: 500px;
   margin: 0 auto;
   padding: 0 2em;
   text-align: center;
   box-shadow: 0 0 20px #262e41aa;
+  width: 100%;
 }
 
 body {
